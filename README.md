@@ -1,4 +1,4 @@
-# Enterprise Knowledge Platform Concept
+# Knowledge Platform Concept
 
 ## Übersicht
 
